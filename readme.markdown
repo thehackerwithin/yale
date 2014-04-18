@@ -1,3 +1,21 @@
+
+# The Hacker Within at Yale - the website branch
+
+This, the gh-pages branch of the yale hacker within repo, holds the website at 
+github.io/thehackerwithin/yale. It is built on something called "Left," 
+discussed below.
+
+## To add a post
+
+Create a post in the `_posts` directory. Name it YYYY-MM-DD-title.markdown. YYYY 
+is the year, MM is the month, DD is the day. Add it to the repository (git add, 
+git commit). Then, push it up to the gh-pages branch of thehackerwithin/yale.
+
+## To preview your work
+
+Type `jekyll build` from the top level directory. Then, you'll see your changes 
+in `_site`. Give that a look.  
+
 # Left
 
 Left is a clean, whitespace-happy layout for [Jekyll](https://github.com/mojombo/jekyll).
