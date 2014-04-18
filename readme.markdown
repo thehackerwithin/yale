@@ -2,7 +2,7 @@
 # The Hacker Within at Yale - the website branch
 
 This, the gh-pages branch of the yale hacker within repo, holds the website at 
-github.io/thehackerwithin/yale. It is built on something called "Left," 
+thehackerwithin.github.com/yale. It is built on something called "Left," 
 discussed below.
 
 ## To add a post
